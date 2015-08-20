@@ -1,0 +1,7 @@
+.nav-pills {
+  background-color: #CCCCCC;
+}
+
+.nav-pills > li.active > a {
+  background-color: #000066;
+}
